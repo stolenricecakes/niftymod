@@ -1,0 +1,8 @@
+{
+  "gassy": {
+    "replace" : false,
+    "category": "master",
+    "subtitle": "niftymod.subtitle.gas",
+    "sounds": [ "niftymod:gassy" ]
+  }
+}

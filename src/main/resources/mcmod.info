@@ -1,0 +1,16 @@
+[
+{
+  "modid": "niftymod",
+  "name": "Superniftymod",
+  "description": "This mod is super nifty.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["YourFace"],
+  "credits": "Robert McJimBob, Jimmy Bob Jimjim-IV",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
